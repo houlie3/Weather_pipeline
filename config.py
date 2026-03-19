@@ -12,7 +12,7 @@ DATA_DIR.mkdir(parents=True, exist_ok=True)
 # Format: "Label": (latitude, longitude)
 LOCATIONS: dict[str, tuple[float, float]] = {
     "Birthplace": (57.0488, 9.9217),
-    "Previous Residence": (55.6761, 12.5683),
+    "Previous Residence": (56.5667, 9.0333),
     "Aalborg": (57.0488, 9.9217),
 }
 
