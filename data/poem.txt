@@ -1,13 +1,14 @@
 Section 1:
-Tomorrow's forecast is quite serene,
-Birthplace, Previous Residence, and Aalborg are seen,
-Similar temperatures, all around 12 degrees,
-No precipitation, just gentle breeze.
-The winds are calm, with speeds so similar too,
-A peaceful day, with weather shining through.
+Tomorrow's weather forecast is clear,
+Birthplace and Aalborg will have similar gear,
+9.8 degrees Celsius, no rain in sight,
+While Previous Residence is slightly cooler, 9.5 degrees the fight.
+Wind speeds are close, with Aalborg and Birthplace at 10.8,
+Previous Residence at 11.2, a slight difference to mention.
 
 Section 2:
-I morgen er vejrforholdene næsten ens,
-Temperaturerne er ligesom, og nedbøren er nul, hvad er bedst?
-Fødselssted, tidligere bopæl og Aalborg er alle velegnede,
-Men alle steder er lige hyggelige, så jeg synes, Aalborg er dejligst at være i morgen.
+I morgen vil vejret være pænt,
+Forskellen ligger i temperaturen, nedbør og vind,
+Men samlet set, så er Birthplace og Aalborg de bedste steder,
+Der vil være lige hyggeligt at være, uden regn og med blid vind.
+Det er lige godt i Birthplace som i Aalborg, i morgen er det godt at være der.
