@@ -1,13 +1,13 @@
 Section 1:
-Tomorrow's forecast, a tale to tell,
-Birthplace, Previous Residence, and Aalborg to compare well.
-Temperatures similar, with 13.5 and 13.8 in sight,
-Precipitation zero, a dry and pleasant night.
-Wind speeds vary, 15.5 to 18.4, a gentle breeze.
+Tomorrow's forecast shows a similar sight,
+In Birthplace and Aalborg, temperatures take flight,
+8.9 degrees Celsius, a gentle breeze to share,
+20.5 km/h winds, with no precipitation to spare.
+Previous Residence boasts a slightly warmer day,
+9.2 degrees Celsius, with less wind in play.
 
 Section 2:
-I morgen er vejret næsten ens,
-i fødeby, tidligere bopæl og Aalborg med samme vejr.
-Temperaturerne ligger tæt, og nedbøren er nul,
-men vinden blæser lidt stærkere på én af stederne.
-Det vil være hyggeligt at være i fødebyen i morgen.
+I morgen vil vejret være næsten det samme,
+I fødeby og Aalborg, temperaturerne er ens,
+Men i tidligere bopæl er det lidt varmere,
+Der vil være det hyggeligst at være i morgen.
