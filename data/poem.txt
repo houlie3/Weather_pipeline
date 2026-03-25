@@ -1,12 +1,15 @@
-Tomorrow's forecast tells a tale,
-Birthplace and Aalborg, similar weather prevail,
-9.2 degrees max, with precipitation in store,
-11.0 mm expected, and winds up to 44.6 km/h once more.
-Previous Residence is slightly cooler and wetter too,
-8.8 degrees max, with 12.3 mm precipitation in view.
+Section 1:
+Tomorrow's forecast shows a similar sight,
+Birthplace and Aalborg, equal in delight.
+9.3 degrees Celsius, no rain to be found,
+40.3 km/h winds, a breezy sound.
+Previous Residence is slightly chillier, 
+8.2 degrees, a small difference to fulfill.
 
-I morgen vil vejret være lignende i Birthplace og Aalborg,
-med 9.2 graders maksimum og 11 mm nedbør på vej.
-Førige bopæl er lidt koldere og vådere, 
-men Birthplace og Aalborg er de samme, 
-så det vil være hyggeligst at være i Aalborg i morgen.
+Section 2:
+Vind og regn, de er ens alle steder,
+40 km/h og ikke en dråbe regn.
+Men temperaturen er lidt lavere i Previous Residence,
+så jeg vil vælge Birthplace eller Aalborg, det er lige meget, 
+for begge steder er lige dejlige i morgen.
+Der vil være dejligt at være i morgen.
