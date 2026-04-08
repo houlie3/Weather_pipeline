@@ -1,13 +1,13 @@
 Section 1:
-Tomorrow's forecast shows a gentle breeze,
-Similar conditions in Birthplace and Aalborg, if you please.
-Previous Residence will be a bit warmer, a degree or so high,
-No precipitation in sight, a clear blue sky.
-The winds will blow at similar speeds, a gentle sway,
-A lovely day ahead, come what may.
+Tomorrow's forecast is quite the same,
+In Birthplace, Previous Residence, and Aalborg's frame.
+Temperature highs all reach 13.5 degrees,
+No precipitation falls, a calm breeze.
+Wind speeds vary slightly, but not by much,
+Birthplace and Aalborg at 30.2, Previous Residence a bit rough.
 
 Section 2:
-I morgen vil vejret være lidt varmere i Previous Residence,
-Men Birthplace og Aalborg vil have samme temperatur, en skøn enhed.
-Ingen regn i sigte, blot sol og blå himmel,
-Det vil være hyggeligt at være i Previous Residence, det er bedst at være der i morgen.
+I morgen er vejrret næsten ens,
+I fødeby, tidligere bopæl og Aalborgsrens.
+Temperaturen er ens, vinden er også,
+Men alligevel er fødebyen det bedste sted at være i morgen, det er her det er skønt.
