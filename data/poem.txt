@@ -1,12 +1,15 @@
-Tomorrow's forecast varies by place,
-Birthplace and Aalborg share the same warm face,
-13.5 degrees Celsius, a gentle breeze,
-While Previous Residence is slightly cooler, if you please.
-The winds and rains are similar, a slight difference found,
-But overall, the temperatures are mild all around.
+Section 1:
+Tomorrow's forecast, a tale to tell,
+Birthplace and Aalborg, identical to dwell,
+16.5 degrees, not a drop of rain,
+16.2 km/h winds, a gentle refrain.
+Previous Residence, slightly cooler than the rest,
+15.7 degrees, a minor difference to nest,
+Same calm skies, no precipitation in sight,
+A gentle breeze, a peaceful night.
 
-I morgen vil vejrforholdene være lidt forskellige,
-Men Birthplace og Aalborg har det samme varme vejr,
-13,5 grader og let vind, mens Previous Residence er lidt koldere,
-Men alle steder har de samme nøjagtige vind- og regnmål.
-Det vil være allermest rart at være i Birthplace i morgen.
+Section 2:
+I morgen er vejrforholdene ret ens,
+Fødselssted og Aalborg, samme temperatur og vind,
+Men tidligere bopæl er lidt koldere, 
+16,5 grader er bedst, der er hvor man skal være i morgen.
