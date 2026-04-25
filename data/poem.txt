@@ -1,13 +1,14 @@
 Section 1:
-Tomorrow's forecast shows a similar scene,
-Birthplace and Aalborg, equal in temperature's sheen,
-12.6 degrees, a pleasant day to be,
-No precipitation, just sunshine to see.
-Previous Residence is cooler, 11 degrees the high,
-A bit more windy, but still a gentle sigh.
+Tomorrow's forecast shows a gentle breeze,
+Similar temperatures in Birthplace and Aalborg, if you please.
+Previous Residence will be slightly warmer, a degree apart,
+No rain in sight, a perfect day to start.
+The winds will blow at varying speeds, a gentle sway,
+But overall, a calm and peaceful day.
 
 Section 2:
 I morgen vil vejret være næsten ens,
-Fødselssted og Aalborg, samme temperatur og solskens glans,
-Men Førige bopæl er køligere og mere blæsende,
-Alligevel vil Fødselssted og Aalborg være de bedste steder at være i morgen, det er klar.
+I fødselssted, Aalborg og tidligere bopæl, en smuk dag at gens.
+Men hvis jeg skal vælge, så er det tidligere bopæl, der er bedst,
+på grund af den lidt varmere temperatur, selv om det er meget nøjagtigt.
+Det ville være dejligt at være i tidligere bopæl i morgen.
