@@ -1,13 +1,15 @@
 Section 1:
-Tomorrow's forecast shows a gentle breeze,
-Birthplace and Aalborg share the same ease,
-15.4°C high, no precipitation in sight,
-While Previous Residence boasts a slightly warmer light.
-The winds are similar, a gentle sway,
-But temperatures differ, come what may.
+Tomorrow's forecast is quite clear,
+Birthplace and Aalborg will have similar weather this year.
+Both will reach 17.7°C, with no precipitation in sight,
+And gentle winds of 13.0 km/h, a pleasant delight.
+Previous Residence will be slightly cooler, at 17.2°C high,
+And windier, with 15.8 km/h, a notable difference to the eye.
 
 Section 2:
-I morgen vil vejret være næsten ens,
-Forskellen ligger i temperaturen, ikke meget at sans,
-Previous Residence er lidt varmere, men kun lidt,
-Men hvis jeg skal vælge, så er Previous Residence det bedste sted at være i morgen.
+I morgen vil det være dejligt i fødebyen,
+Lige som i Aalborg, med sol og blæse lidt mildt.
+Temperaturerne vil være ens, uden regn at frygte,
+Så fødebyen eller Aalborg, det er herligt at være.
+Det vil være hyggeligt på begge steder, men fødebyen er bedst,
+Derfor siger jeg, at fødebyen er det bedste sted at være i morgen.
