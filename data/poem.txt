@@ -1,13 +1,16 @@
-As tomorrow dawns, a tale unfolds,
-Of three locations, with weather to behold.
-Birthplace and Aalborg, a twin delight,
-Share the same conditions, a wondrous sight.
-Previous Residence, slightly cooler still,
-Less than a degree, a minor chill.
+Section 1:
+Tomorrow's forecast shows a similar stage,
+Birthplace and Aalborg share the same page,
+21.3°C max, no rain in sight,
+14.4 km/h wind, a gentle delight.
+Previous Residence will be slightly warm,
+22.4°C max, a difference to form,
+17.6 km/h wind, a bit more to bear,
+But all three locations will have sunny air.
 
-I morgen vil det være dejligt iBirthplace,
-Med samme vejr som Aalborg, ingen regn i sigte.
-Temperatur og vind, næsten ens på tre steder,
-Men Birthplace og Aalborg er de dejligste at være.
-Der vil det være nærmest perfekt, uden regn og med varme,
-Så Birthplace eller Aalborg, dét er hvor det er skønt at være i morgen.
+Section 2:
+I morgen vil vejret være lidt forskelligt,
+Men alle steder vil have solrigt vejr, ikke regn,
+Fødested og Aalborg har samme temperatur,
+Men tidligere bopæl vil være lidt varmere, og mere blæsende, 
+Det vil være hyggeligst at være i fødested eller Aalborg i morgen.
