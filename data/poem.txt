@@ -1,15 +1,13 @@
 Section 1:
-Tomorrow's forecast, a tale to tell,
-Birthplace, Residence, and Aalborg to compare so well.
-Temperatures similar, with highs of fourteen degrees,
-Precipitation none, a pleasant breeze.
-Wind speeds varied, but not by much, it's true,
-A difference of one, in wind's gentle hue.
+Tomorrow's forecast shows a similar stage,
+Birthplace and Aalborg share the same page,
+16.3°C high, no rain in sight,
+Wind at 14.4 km/h, a gentle breeze tonight.
+Previous Residence is slightly cooler, 
+15.8°C, a difference to ponder.
 
 Section 2:
-Været er næsten ens, i de tre steder i morgen,
-Temperatur og precipitation, næsten identiske, ikke meget at sige.
-Men alligevel, følesBirthplace og Aalborg lidt mere behageligt,
-Medens Previous Residence har en smule mere vind, men kun lidt.
-Aalborg og Birthplace er næsten ens, så det er svært at vælge,
-Men hvis jeg skal vælge, så er Aalborg det bedste sted at være i morgen.
+I morgen er vejret lignende på de tre steder,
+Birthplace, Aalborg og tidligere bopæl har næsten samme vejr.
+Men med samme temperatur og vind i Aalborg og Birthplace,
+Så er det her, det vil være allermest rart at være i morgen.
