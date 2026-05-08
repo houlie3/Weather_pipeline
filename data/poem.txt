@@ -1,14 +1,13 @@
-Tomorrow's forecast, a tale to tell,
-Birthplace, Previous Residence, Aalborg, all to compel,
-Similar temperatures, 18 degrees high,
-No precipitation, a clear blue sky.
-The winds do differ, a slight gentle breeze,
-17.3 km/h in Birthplace, Aalborg with ease,
-14.4 km/h in Previous Residence, a softer sway.
+Section 1:
+Tomorrow's forecast, a tale of three places,
+Birthplace, Previous Residence, and Aalborg in sight.
+Temperature varies, 17.4 to 19 degrees high,
+Precipitation zero, a dry and clear sky.
+Wind speeds differ, 14.4 to 18.4 km/h blows,
+A gentle breeze to a moderate wind that flows.
 
-I morgen vil vejret være dejligt overalt,
-Men hvis jeg skal vælge, så er det lige meget hvor,
-For temperatur, nedbør og vind er stort set ens,
-Så det bliver et valg mellem Birthplace, Previous Residence og Aalborg,
-Men hvis jeg skal vælge, så er det Previous Residence, hvor vinden er svag,
-Så det er der, jeg helst vil være i morgen.
+Section 2:
+I morgen, hvordan vil vejret være?
+Fødselssted og Aalborg, lignende vilkår.
+Tidligere bopæl, varmest med 19 grader højt.
+Ingen regn, blot sol og blæst, så det er her, jeg helst vil være.
