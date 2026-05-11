@@ -1,12 +1,11 @@
-Tomorrow's forecast is quite serene,
-Birthplace, Previous Residence, and Aalborg all are seen,
-With max temperatures of 12 degrees high,
-No precipitation, just a gentle sky.
-The winds do differ, with Birthplace and Aalborg strong,
-At 23 km/h, while Previous Residence blows a bit wrong,
-At 21.2 km/h, a slight gentle breeze.
+Tomorrow's forecast is quite clear,
+Birthplace and Aalborg will have similar cheer,
+Max temperature of 14.8 degrees high,
+No precipitation, a pleasant sky.
+Previous Residence is slightly cooler, 
+with a bit of rain, and wind just as strong.
 
-I morgen vil vejret være køligt og rent,
-Med ingen nedbør og en let vind i Birthplace, Previous Residence og Aalborg bent,
-Temperaturerne er ens, men vinden adskiller sig lidt,
-Men selv med disse forskelle, er Previous Residence måske det bedste sted at være i morgen, hvor vinden er lidt svagere, og det føles lidt mere behageligt.
+I morgen vil vejret være ret dejligt,
+få steder har forskelle i temperatur, nedbør og vind,
+Birthplace og Aalborg har det bedst,
+derfor er det bedst at være i Aalborg i morgen.
