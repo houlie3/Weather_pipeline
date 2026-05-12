@@ -1,11 +1,12 @@
-Tomorrow's forecast is quite clear,
-Birthplace and Aalborg will have similar cheer,
-Max temperature of 14.8 degrees high,
-No precipitation, a pleasant sky.
-Previous Residence is slightly cooler, 
-with a bit of rain, and wind just as strong.
+Tomorrow's forecast is quite the test,
+Birthplace, Previous Residence, and Aalborg, which is best?
+Similar temperatures, all at 10.9 high,
+But precipitation and wind tell a different story to the sky.
+Birthplace and Aalborg, low precipitation in sight,
+Previous Residence, more rain, not a pleasant night.
 
-I morgen vil vejret være ret dejligt,
-få steder har forskelle i temperatur, nedbør og vind,
-Birthplace og Aalborg har det bedst,
-derfor er det bedst at være i Aalborg i morgen.
+I morgen vil vejret være lidt forskelligt,
+Fødselssted og Aalborg har lav nedbør, mens tidligere bopæl har mere regn.
+Temperaturen er den samme, men vinden og regnen afslører forskellen.
+Fødselssted og Aalborg har stærkere vind, men lavere regn.
+Det vil være bedst at være i Aalborg i morgen.
