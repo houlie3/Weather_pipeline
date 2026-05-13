@@ -1,12 +1,17 @@
-Tomorrow's forecast is quite the test,
-Birthplace, Previous Residence, and Aalborg, which is best?
-Similar temperatures, all at 10.9 high,
-But precipitation and wind tell a different story to the sky.
-Birthplace and Aalborg, low precipitation in sight,
-Previous Residence, more rain, not a pleasant night.
+Section 1:
+Tomorrow's forecast shows a similar sight,
+Birthplace and Aalborg, equal in temperature's light,
+10.4 degrees, a gentle breeze to share,
+24.8 km/h winds, with precipitation to spare.
+Previous Residence is close, just a fraction cold,
+10.2 degrees, with less rain to unfold,
+2.0 mm, a slight difference, yet still to abide,
+25.2 km/h winds, a gentle, whispering tide.
 
-I morgen vil vejret være lidt forskelligt,
-Fødselssted og Aalborg har lav nedbør, mens tidligere bopæl har mere regn.
-Temperaturen er den samme, men vinden og regnen afslører forskellen.
-Fødselssted og Aalborg har stærkere vind, men lavere regn.
-Det vil være bedst at være i Aalborg i morgen.
+Section 2:
+I morgen ser vejret lidt det samme ud,
+Fødselssted og Aalborg, lige varmt og blæsende ud,
+Men hvis jeg skal vælge, så er det samme sted,
+Fødselssted, tidligere bopæl og Aalborg, alle tre næsten lige,
+Men fødselssted og Aalborg er de bedste, 
+det er her, jeg helst vil være i morgen.
