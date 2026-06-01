@@ -1,13 +1,15 @@
-Tomorrow's forecast is bright and fair,
-Birthplace, Previous Residence, and Aalborg share,
-Similar temperatures, all at 21.5 high,
-No precipitation, a clear blue sky.
-The winds do differ, a slight gentle sway,
-19.8 in Birthplace and Aalborg's day,
-17.6 in Previous Residence, a softer breeze.
+Section 1:
+Tomorrow's forecast shows a gentle breeze,
+Similar temperatures in Birthplace and Aalborg, if you please.
+Previous Residence will be slightly warmer, a degree apart,
+But more precipitation will fall, a gloomy start.
+The winds will be similar in Birthplace and Aalborg's space,
+A calm and peaceful day, with a warm and sunny face.
 
-I morgen vil vejret være lige godt overalt,
-Men hvis jeg skal vælge, så er det lige meget hvor,
-Med samme temperatur og intet regn,
-Jeg synes det er lige dejligt i alle tre byer, 
-men Previous Residence er måske lidt hyggeligst at være i.
+Section 2:
+I morgen vil vejret være lidt forskelligt,
+Men Birthplace og Aalborg vil have samme temperatur at tilbyde.
+Første hjemsted vil være lidt varmere, men også mere vådt,
+Så jeg vil nødig være der, hvor skyerne hænger lavt.
+Det vil være hyggeligt i Birthplace eller Aalborg i morgen,
+Der vil være det hyggeligst, med sol og en let brise, og det er der, jeg helst vil være.
