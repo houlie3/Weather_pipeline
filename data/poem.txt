@@ -1,13 +1,14 @@
 Section 1:
-Tomorrow's forecast shows a gentle breeze,
-Similar temperatures in Birthplace and Aalborg, if we please.
-Previous Residence will be slightly warmer and wet,
-With a bit more wind, a different scene is set.
-The temperatures vary, but not by much,
-Precipitation is scarce, a dry gentle touch.
+Tomorrow's forecast shows a similar scene,
+Birthplace and Aalborg, identical as can be.
+Previous Residence slightly warmer, a degree apart,
+No precipitation in sight, a dry and sunny start.
+The winds are gentle, with a slight difference in might,
+But overall, a pleasant day, with warm and clear light.
 
 Section 2:
-I morgen vil det være næsten ens i fødeby og Aalborg,
-Med lidt varmere vejr i det tidligere opholdssted, men ikke meget.
-Vinden og regnen vil være lidt højere der,
-Men samlet set, så er fødeby og Aalborg de bedste at være i i morgen.
+I morgen vil det være dejligt alle steder,
+Men med en lille forskel i varme og vind.
+Fødested og Aalborg er ens, 
+mens tidligere bopæl er lidt varmere.
+Det vil være hyggeligt at være på tidligere bopæl i morgen.
