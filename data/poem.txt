@@ -1,16 +1,17 @@
 Section 1:
-Tomorrow's forecast shows a similar sight,
-Birthplace and Aalborg, equal in temperature's light.
-19 degrees Celsius, a pleasant day to roam,
-But Previous Residence will be slightly warmer, back home.
-Precipitation varies, 7.1 mm in two places found,
-While Previous Residence expects less, 3.3 mm on the ground.
-Wind speeds are close, but still a difference to tell,
-Previous Residence has the most, with 25.2 km/h to compel.
+Tomorrow's forecast, a tale to tell,
+Birthplace and Aalborg, similar to compel,
+19.2°C max, no rain in sight,
+Wind at 21.2 km/h, a gentle might.
+Previous Residence, a degree higher still,
+20.3°C max, a warmer hill,
+Wind at 22.7 km/h, a slightly stronger breeze,
+But all three locations, no precipitation to freeze.
 
 Section 2:
-I morgen vil vejret være lidt forskelligt,
-Men Previous Residence ser ud til at være det bedste sted at være.
-Lavere nedbør og en smule varmere temperatur,
-Gør det til det nærmeste valg, hvis man søger en behagelig dag.
-Derfor er Previous Residence det bedste valg i morgen.
+I morgen vil vejret være dejligt,
+Men hvor er det bedst at være, læs videre,
+Fødested og Aalborg, ligner hinanden,
+Men Tidligere Bopæl er varmest, uden regn eller vind,
+Men hvis jeg skal vælge, så er det Tidligere Bopæl, 
+det er her, jeg helst vil være i morgen.
