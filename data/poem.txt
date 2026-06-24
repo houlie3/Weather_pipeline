@@ -1,12 +1,13 @@
-Tomorrow's forecast is clear to see,
-Birthplace and Aalborg, identical as can be,
-25.4 degrees, not a drop of rain,
-18.7 km/h winds that will blow again.
-Previous Residence will be slightly warmer still,
-25.8 degrees, a difference to fulfill,
-Less wind, 16.9 km/h, a gentler breeze.
+Section 1:
+Tomorrow's forecast is quite fair,
+Birthplace and Aalborg share the same air,
+26.1°C high, no rain in sight,
+16.2 km/h winds, a gentle breeze tonight.
+Previous Residence is slightly warmer still,
+26.9°C, a difference that's hard to fulfill.
 
-I morgen vil vejret være godt i alle tre steder,
-Men Previous Residence vil være lidt varmere, med mindre vind,
-Ikke en dråbe regn, blot sol og varme luft,
-Det vil være hyggeligt at være i Previous Residence i morgen, det er sandt.
+Section 2:
+I morgen vil vejret være næsten ens,
+Fødselssted og Aalborg har samme vejr, mens
+Tidligere bopæl er en smule varmere,
+Men hvis jeg skal vælge, så er fødselsstedet det bedste at være.
