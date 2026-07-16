@@ -1,17 +1,13 @@
 Section 1:
-Tomorrow's forecast is quite bright,
-Similar conditions in three locations in sight.
-Birthplace, Previous Residence, and Aalborg too,
-All share the same weather, with temperatures anew.
-Max temperatures vary slightly, but not by much,
-Birthplace and Aalborg at 30.6, Previous Residence a tad more to clutch.
-No precipitation is expected, a dry day ahead,
-Wind speeds are equal, with no location to be misled.
+Tomorrow's forecast shows a similar sight,
+Birthplace and Aalborg, equal in heat and light.
+26.2 degrees, a warm and sunny day,
+0.4 mm of precipitation, nothing to sway.
+Previous Residence is slightly cooler, 24.1 the high,
+Similar precipitation and wind, a gentle summer sky.
 
 Section 2:
-I morgen er vejrforholdene næsten ens,
-Temperaturforskellen er minimal, kun en smule højere i Previous Residence.
-Ingen regn eller nedbør, blot sol og varme,
-Det samme vindtryk overalt, intet at frygte.
-Det blæser ikke stærkt, og solen skinner klart,
-Det er lige dejligt overalt, men Aalborg er måske desto bedst at være i morgen.
+I morgen er vejrforholdene ret ens i de tre steder,
+Men føles måske lidt bedst i fødeby eller Aalborgs varme.
+Med samme temperatur og vind, er det svært at vælge,
+Men jeg synes, det er lige dejligt i fødeby i morgen, der er det nærmest som Aalborg.
