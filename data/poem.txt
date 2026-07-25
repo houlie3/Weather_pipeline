@@ -1,11 +1,14 @@
-Tomorrow's weather brings a tale,
-Birthplace, Previous Residence, and Aalborg to hail,
-Similar temperatures, a minimal degree apart,
-But precipitation and wind show a differing heart.
-Previous Residence expects more rain to fall,
-And slightly stronger winds to blow through all.
+Section 1:
+Tomorrow's forecast shows a similar stage,
+Birthplace and Aalborg share the same page,
+19.1°C high, with minimal rain,
+21.2 km/h winds will bring a gentle strain.
+Previous Residence is slightly warmer and wet,
+With 1.4 mm precipitation, it won't be a bet.
 
-I morgen vil vejret være lidt forskelligt,
-Fødselssted og Aalborg ligner hinanden i temperatur og nedbør,
-Men Tidligere Bopæl får mere regn og stærkere vind,
-Jeg vil foretrække at være i Aalborg i morgen, det vil være skønt.
+Section 2:
+I morgen vil vejret være næsten ens,
+Fødselssted og Aalborg har samme vejrskens,
+Men tidligere bopæl er lidt varmere og vådt,
+Så fødselssted eller Aalborg er bedst, det er klart.
+Der vil være pænest i Aalborg i morgen, det er godt.
