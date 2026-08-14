@@ -1,15 +1,12 @@
-Section 1:
-Tomorrow's forecast is clear to see,
-Birthplace and Aalborg, a twin decree,
-32.1°C, no rain, and winds so bright,
-19.1 km/h, a gentle summer's night.
-Previous Residence, a touch warmer still,
-32.5°C, a difference to fulfill,
-Less wind, 17.3 km/h, a softer breeze,
-A slight variation, but all with summer's ease.
+Tomorrow's forecast varies by place,
+Birthplace and Aalborg share the same warm face,
+24.3°C high, no rain in sight,
+While Previous Residence is slightly cooler in the night.
+The winds do howl, but Birthplace and Aalborg bear,
+33.5 km/h gusts, stronger than the 28.8 km/h air,
+In Previous Residence, a gentler breeze is found.
 
-Section 2:
-I morgen er vejrudsigten klar og fin,
-Fødested og Aalborg, næsten ens i vind,
-32,1°C, ingen regn, og sol skin så bright,
-Men Previous Residence er lidt varmere, og det er dét, der gør det til det bedste sted at være i morgen.
+I morgen vil vejret være forskelligt på de tre steder,
+Men føles næsten ens i Birthplace og Aalborg, med varme og tørvejr.
+Jeg synes, det vil være hyggeligt at være i Previous Residence i morgen,
+Med en lidt lavere temperatur og mindre vind, det er dér jeg helst vil være.
